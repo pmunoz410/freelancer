@@ -11,7 +11,7 @@ Diseño y elaboración como práctica y estudio de temas:
 
 Desde el siguiente enlace podrán previsualizar el proyecto.
 
-[https://freelancer-designer.vercel.app](https://freelancer-designer-pm.vercel.app/)
+[https://freelancer-designer-pm.vercel.app](https://freelancer-designer-pm.vercel.app/)
 
 ## Issue
 
